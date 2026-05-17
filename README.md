@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Tejaswi 
 
 ### Student · Full Stack · Data Science · AI/ML · Cloud & DevOps
 
 *Building things at the intersection of code and curiosity.*
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/yourusername)
-[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=0d1117)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/TEJASWI-RAJ0210)
+[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=0d1117)](https://github.com/TEJASWI-RAJ0210)
 
 </div>
 
@@ -17,9 +17,9 @@
 
 I'm a passionate student and developer who loves working across the full technology stack — from designing intelligent systems with AI/ML to deploying them at scale using cloud and DevOps practices.
 
-- 🎓 Currently studying **[Your Degree / Institution]**
-- 🔭 Working on **[Your Current Project]**
-- 🌱 Learning **[Something You're Currently Exploring]**
+- 🎓 Currently studying **BTech from KIIT University**
+- 🔭 Working on **ML Models**
+- 🌱 Learning **Devops**
 - 💡 Interested in **AI/ML, Distributed Systems, and Developer Tooling**
 - 📍 Based in **India**
 
