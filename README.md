@@ -6,8 +6,8 @@
 
 *Building things at the intersection of code and curiosity.*
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/TEJASWI-RAJ0210)
-[![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=0d1117)](https://github.com/TEJASWI-RAJ0210)
+[![GitHub followers](https://img.shields.io/github/followers/TEJASWI-RAJ0210?label=Follow&style=flat-square&color=0d1117&labelColor=30363d)](https://github.com/TEJASWI-RAJ0210)
+[![Profile views](https://komarev.com/ghpvc/?username=TEJASWI-RAJ0210&style=flat-square&color=0d1117)](https://github.com/TEJASWI-RAJ0210)
 
 </div>
 
@@ -70,7 +70,6 @@ I'm a passionate student and developer who loves working across the full technol
 | [🔗 Project Two](https://github.com/yourusername/project-two) | Short description of what it does and why it matters | PyTorch · Docker · AWS |
 | [🔗 Project Three](https://github.com/yourusername/project-three) | Short description of what it does and why it matters | Next.js · PostgreSQL · Vercel |
 
-> 📌 *Pin your best repositories on your profile for maximum visibility.*
 
 ---
 
@@ -78,14 +77,14 @@ I'm a passionate student and developer who loves working across the full technol
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TEJASWI-RAJ0210&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASWI-RAJ0210&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TEJASWI-RAJ0210&theme=github-dark-blue&hide_border=true)
 
 </div>
 
