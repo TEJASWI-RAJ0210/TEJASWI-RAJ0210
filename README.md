@@ -72,9 +72,9 @@ I'm a passionate student and developer who loves working across the full technol
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔗 Project One](https://github.com/yourusername/project-one) | Short description of what it does and why it matters | Python · Express · React |
-| [🔗 Project Two](https://github.com/yourusername/project-two) | Short description of what it does and why it matters | PyTorch · Docker · AWS |
-| [🔗 Project Three](https://github.com/yourusername/project-three) | Short description of what it does and why it matters | Next.js · PostgreSQL · Vercel |
+| [Wavepath](https://github.com/TEJASWI-RAJ0210/Wavepath) | An end-to-end recommender system that takes a user's current emotional state and a target mood, then generates a playlist that smoothly transitions them from one to the other | Python · RL · ReactJs · Vercel |
+| [Chit-Chat](https://github.com/TEJASWI-RAJ0210/Chit-Chat) | Full-stack AI-powered chat messaging app built with MERN + Socket.io + AI/ML | ReactJs · Socket.io · ExpressJs · NodeJs |
+| [Fintrack](https://github.com/TEJASWI-RAJ0210/Fintrack) | A personal finance web-app | Next.js · PostgreSQL · Vercel |
 
 
 ---
